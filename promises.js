@@ -39,14 +39,3 @@ getUserDetails("123")
 
 
 
-// const myPromise = new Promise(function(resolve, reject) {
-//     if(true){
-//         resolve("succress api called");
-//     }
-//     else{
-//         reject("api failed");
-//     }
-// });
-
-// myPromise.then((result) => console.log(result))
-//          .catch((error) => console.log(error));
